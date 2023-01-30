@@ -1,5 +1,5 @@
 # STM32-PWM-Output
-This project is about the output compare functionality of general purpose timers on the STM32 board (ARM Cortex M4 MCU)
+Output compare functionality of general purpose timers on the STM32 board (ARM Cortex M4 MCU)
 
 This is a school project for Fontys, Semester 3, Embedded Software. The problem in detail, as well as my take on it in the form of a report can be found in this folder. 
 Additionally, there is a video link down below.
